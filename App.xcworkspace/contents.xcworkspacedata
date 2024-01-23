@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellNetworkKit/TestAppNetworkKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellUIkit/TestAppUIkit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp.xcodeproj">
+   </FileRef>
+</Workspace>
