@@ -1,0 +1,10 @@
+framework module TestAppUIkit {
+  umbrella header "TestAppUIkit.h"
+  export *
+
+  module * { export * }
+}
+
+module TestAppUIkit.__Swift {
+  exclude header "TestAppUIkit-Swift.h"
+}

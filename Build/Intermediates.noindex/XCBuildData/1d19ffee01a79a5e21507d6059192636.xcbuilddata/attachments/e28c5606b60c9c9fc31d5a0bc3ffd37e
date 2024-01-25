@@ -1,0 +1,11 @@
+framework module TestAppUIkit {
+  umbrella header "TestAppUIkit.h"
+  export *
+
+  module * { export * }
+}
+
+module TestAppUIkit.Swift {
+  header "TestAppUIkit-Swift.h"
+  requires objc
+}

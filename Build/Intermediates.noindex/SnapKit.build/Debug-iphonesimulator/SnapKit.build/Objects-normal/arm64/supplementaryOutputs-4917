@@ -1,0 +1,24 @@
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift":
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.swiftconstvalues"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.swiftdeps"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.dia"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuideDSL.o"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift":
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.swiftdeps"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupportDSL.swiftconstvalues"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift":
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftdeps"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutGuide.swiftconstvalues"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift":
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftconstvalues"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintLayoutSupport.swiftdeps"

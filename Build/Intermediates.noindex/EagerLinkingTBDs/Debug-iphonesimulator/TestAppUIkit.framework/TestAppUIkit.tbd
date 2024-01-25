@@ -1,0 +1,100 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s12TestAppUIkit10ColorStyleOSYAAMc",
+            "_$s12TestAppUIkit13ThemeProviderTL",
+            "_$s12TestAppUIkit0B5ThemeCACycfCTq",
+            "_$s12TestAppUIkit13ColorResourceV5blackACvgZ",
+            "_$s12TestAppUIkit13ImageResourceVMa",
+            "_$s12TestAppUIkit13ColorResourceV6secondACvgZ",
+            "_$s12TestAppUIkit13ImageResourceVN",
+            "_$s12TestAppUIkit13ColorResourceV6secondACvau",
+            "_$s12TestAppUIkit0B5ThemeCfD",
+            "_$s12TestAppUIkit13ImageResourceVMn",
+            "_$s12TestAppUIkit13ColorResourceV4mainACvgZ",
+            "_$sSo7UIImageC12TestAppUIkitE8resourceAbC13ImageResourceV_tcfC",
+            "_$s12TestAppUIkit10ColorStyleOMa",
+            "_$s12TestAppUIkit13ImageResourceV4name6bundleACSS_So8NSBundleCtcfC",
+            "_$s12TestAppUIkit13ColorResourceV9hashValueSivpMV",
+            "_$sSo7UIColorC12TestAppUIkitE8resourceAbC13ColorResourceV_tcfC",
+            "_$s12TestAppUIkit13ColorResourceV4mainACvau",
+            "_$s12TestAppUIkit13ImageResourceVSQAAMc",
+            "_$s12TestAppUIkit13ColorResourceV6secondACvpZ",
+            "_$s12TestAppUIkit13ColorResourceVMn",
+            "_$s12TestAppUIkit10ColorStyleON",
+            "_$s7SwiftUI5ImageV12TestAppUIkitEyAcD0C8ResourceVcfC",
+            "_$s12TestAppUIkit10ColorStyleOs12CaseIterableAAMc",
+            "_$s12TestAppUIkit10ColorStyleOSHAAMc",
+            "_$s12TestAppUIkit0B5ThemeC13adaptiveColor_10isDarkMode0G12HighContrastSo7UIColorCAA0F5StyleO_S2btFTq",
+            "_$s12TestAppUIkit0B5ThemeCMa",
+            "_$s12TestAppUIkit13ColorResourceV4mainACvpZ",
+            "_$s12TestAppUIkit10ColorStyleOMn",
+            "_TestAppUIkitVersionString",
+            "_$s12TestAppUIkit13ColorResourceV4hash4intoys6HasherVz_tF",
+            "_$s12TestAppUIkit0B5ThemeCMm",
+            "_$s12TestAppUIkit0B5ThemeCACycfc",
+            "_$s12TestAppUIkit13ColorResourceV5blackACvpZ",
+            "_$s12TestAppUIkit6bundleSo8NSBundleCvp",
+            "_$s12TestAppUIkit10ColorStyleO8rawValueSSvg",
+            "_$s12TestAppUIkit13ColorResourceVSHAAMc",
+            "_$s12TestAppUIkit13ThemeProviderMp",
+            "_$s12TestAppUIkit13ColorResourceV9hashValueSivg",
+            "_$s12TestAppUIkit6bundleSo8NSBundleCvau",
+            "_$s12TestAppUIkit13ImageResourceV9hashValueSivpMV",
+            "_$s12TestAppUIkit10ColorStyleO8rawValueSSvpMV",
+            "_$s12TestAppUIkit10ColorStyleO8rawValueACSgSS_tcfC",
+            "_$s12TestAppUIkit13ColorResourceV23__derived_struct_equalsySbAC_ACtFZ",
+            "_$s7SwiftUI5ColorV12TestAppUIkitEyAcD0C8ResourceVcfC",
+            "_$s12TestAppUIkit10ColorStyleO8allCasesSayACGvgZ",
+            "_$s12TestAppUIkit13ColorResourceV5blackACvau",
+            "_$s12TestAppUIkit10ColorStyleO4loadSo7UIColorCSgyF",
+            "_$s12TestAppUIkit13ImageResourceV4hash4intoys6HasherVz_tF",
+            "_$s12TestAppUIkit0B5ThemeCMn",
+            "_$s12TestAppUIkit0B5ThemeCfd",
+            "_$s12TestAppUIkit0B5ThemeCACycfC",
+            "_$s12TestAppUIkit13ColorResourceVSQAAMc",
+            "_$s12TestAppUIkit13ImageResourceVSHAAMc",
+            "_$s12TestAppUIkit0B5ThemeCAA0D8ProviderAAWP",
+            "_$s12TestAppUIkit13ColorResourceV4name6bundleACSS_So8NSBundleCtcfC",
+            "_$s12TestAppUIkit13ColorResourceVN",
+            "_$s12TestAppUIkit0B5ThemeCN",
+            "_$s12TestAppUIkit0B5ThemeC13adaptiveColor_10isDarkMode0G12HighContrastSo7UIColorCAA0F5StyleO_S2btF",
+            "_$s12TestAppUIkit13ImageResourceV23__derived_struct_equalsySbAC_ACtFZ",
+            "_$s12TestAppUIkit10ColorStyleOSQAAMc",
+            "_$s12TestAppUIkit13ColorResourceVMa",
+            "_$s12TestAppUIkit0B5ThemeCAA0D8ProviderAAMc",
+            "_TestAppUIkitVersionNumber",
+            "_$s12TestAppUIkit13ImageResourceV9hashValueSivg"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/TestAppUIkit.framework/TestAppUIkit"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "16.2",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

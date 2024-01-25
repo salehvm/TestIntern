@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/salehmajidov/Desktop/TestApp/Build/Products/Debug-iphonesimulator/TestAppUIkit.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/salehmajidov/Desktop/TestApp/Build/Products/Debug-iphonesimulator/TestAppUIkit.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "TestAppUIkit-Swift.h",
+      'external-contents': "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/unextended-interface-header.h",
+    }]
+    }]
+}

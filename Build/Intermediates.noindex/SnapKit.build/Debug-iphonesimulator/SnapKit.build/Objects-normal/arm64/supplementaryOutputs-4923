@@ -1,0 +1,18 @@
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift":
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftdeps"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/LayoutConstraintItem.swiftconstvalues"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift":
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.dia"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftdeps"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.swiftconstvalues"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/UILayoutSupport+Extensions.o"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift":
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftdeps"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/Typealiases.swiftconstvalues"

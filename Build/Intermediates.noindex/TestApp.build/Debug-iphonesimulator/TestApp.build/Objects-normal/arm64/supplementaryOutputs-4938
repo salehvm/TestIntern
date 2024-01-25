@@ -1,0 +1,18 @@
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Scenes/Dashboard/DashboardPresenter.swift":
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardPresenter.swiftconstvalues"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardPresenter.dia"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardPresenter.o"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardPresenter.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardPresenter.swiftdeps"
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Scenes/Dashboard/DashboardRouter.swift":
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardRouter.o"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardRouter.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardRouter.swiftdeps"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardRouter.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardRouter.swiftconstvalues"
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Scenes/TabBar/TabBarModels.swift":
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/TabBarModels.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/TabBarModels.swiftdeps"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/TabBarModels.swiftconstvalues"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/TabBarModels.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/TabBarModels.dia"

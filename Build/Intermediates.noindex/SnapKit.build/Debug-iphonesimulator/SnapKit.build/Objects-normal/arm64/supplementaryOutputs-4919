@@ -1,0 +1,24 @@
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift":
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftconstvalues"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.o"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.swiftdeps"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable.dia"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift":
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.d"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.o"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftconstvalues"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.swiftdeps"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerRelatable+Extensions.dia"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift":
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftconstvalues"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.o"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.d"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.dia"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMakerPrioritizable.swiftdeps"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift":
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.dia"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.d"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftconstvalues"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintMultiplierTarget.swiftdeps"

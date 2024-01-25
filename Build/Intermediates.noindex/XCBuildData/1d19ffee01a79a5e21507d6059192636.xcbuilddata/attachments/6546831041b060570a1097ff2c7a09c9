@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/TestAppUIkit-master.dia",
+    "emit-module-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/TestAppUIkit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/TestAppUIkit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/TestAppUIkit-master.swiftdeps"
+  },
+  "/Users/salehmajidov/Desktop/TestApp/AzercellUIkit/TestAppUIkit/AppTheme.swift" : {
+    "const-values" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.swiftconstvalues",
+    "dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.d",
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.dia",
+    "index-unit-output-path" : "/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.o",
+    "llvm-bc" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.bc",
+    "object" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.o",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme.swiftdeps",
+    "swiftmodule" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/AppTheme~partial.swiftmodule"
+  },
+  "/Users/salehmajidov/Desktop/TestApp/AzercellUIkit/TestAppUIkit/Colors/Colors.swift" : {
+    "const-values" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.swiftconstvalues",
+    "dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.d",
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.dia",
+    "index-unit-output-path" : "/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.o",
+    "llvm-bc" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.bc",
+    "object" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.o",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39.swiftdeps",
+    "swiftmodule" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/Colors-95540724ae324423b5304476f9575a39~partial.swiftmodule"
+  },
+  "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppUIkit.build/Debug-iphonesimulator/TestAppUIkit.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,11 @@
+framework module TestAppNetworkKit {
+  umbrella header "TestAppNetworkKit.h"
+  export *
+
+  module * { export * }
+}
+
+module TestAppNetworkKit.Swift {
+  header "TestAppNetworkKit-Swift.h"
+  requires objc
+}

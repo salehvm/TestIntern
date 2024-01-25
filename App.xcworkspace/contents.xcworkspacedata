@@ -2,12 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellNetworkKit/TestAppNetworkKit.xcodeproj">
+      location = "group:AzercellUIkit/TestAppUIkit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellUIkit/TestAppUIkit.xcodeproj">
+      location = "group:AzercellNetworkKit/TestAppNetworkKit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp.xcodeproj">
+      location = "group:AzercellApp/TestApp.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,0 +1,77 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvg",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvMTq",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvgTq",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvpMV",
+            "_$s17TestAppNetworkKit15ServiceProtocolMp",
+            "_$s17TestAppNetworkKit17ServiceDataSourceMp",
+            "_$s17TestAppNetworkKit15ServiceDelegateMp",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvgTq",
+            "_$s17TestAppNetworkKit15ServiceProtocolTL",
+            "_$s17TestAppNetworkKit7ServiceCACycfCTq",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvs",
+            "_$s17TestAppNetworkKit7ServiceC5ErrorON",
+            "_$s17TestAppNetworkKit7ServiceCfD",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvpWvd",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvMTq",
+            "_TestAppNetworkKitVersionNumber",
+            "_$s17TestAppNetworkKit7ServiceCAA0E8ProtocolAAWP",
+            "_$s17TestAppNetworkKit7ServiceCAA0E8ProtocolAAMc",
+            "_$s17TestAppNetworkKit7ServiceCACycfc",
+            "_$s17TestAppNetworkKit7ServiceCACycfC",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvsTq",
+            "_$s17TestAppNetworkKit7ServiceC5ErrorOMa",
+            "_$s17TestAppNetworkKit7ServiceCN",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvpfi",
+            "_$s17TestAppNetworkKit7ServiceCMm",
+            "_$s17TestAppNetworkKit7ServiceC5ErrorOMn",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvpMV",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvpfi",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvsTq",
+            "_$s17TestAppNetworkKit7ServiceC9cancelAllyyF",
+            "_$s17TestAppNetworkKit7ServiceCMn",
+            "_$s17TestAppNetworkKit7ServiceC9cancelAllyyFTq",
+            "_TestAppNetworkKitVersionString",
+            "_$s17TestAppNetworkKit7ServiceC5ErrorOsAdAMc",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvpWvd",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvg",
+            "_$s17TestAppNetworkKit7ServiceCfd",
+            "_$s17TestAppNetworkKit7ServiceC10dataSourceAA0e4DataG0_pSgvM",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvM",
+            "_$s17TestAppNetworkKit7ServiceC8delegateAA0E8Delegate_pSgvs",
+            "_$s17TestAppNetworkKit7ServiceCMa"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/TestAppNetworkKit.framework/TestAppNetworkKit"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "16.2",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

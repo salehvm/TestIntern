@@ -1,0 +1,18 @@
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Helpers/Navigation/MainNavigation.swift":
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/MainNavigation.d"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/MainNavigation.swiftconstvalues"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/MainNavigation.swiftdeps"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/MainNavigation.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/MainNavigation.dia"
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Scenes/Dashboard/DashboardConfigurator.swift":
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardConfigurator.swiftconstvalues"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardConfigurator.swiftdeps"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardConfigurator.o"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardConfigurator.dia"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardConfigurator.d"
+"/Users/salehmajidov/Desktop/TestApp/AzercellApp/TestApp/Scenes/Dashboard/DashboardWorker.swift":
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardWorker.dia"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardWorker.o"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardWorker.swiftconstvalues"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardWorker.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/arm64/DashboardWorker.swiftdeps"

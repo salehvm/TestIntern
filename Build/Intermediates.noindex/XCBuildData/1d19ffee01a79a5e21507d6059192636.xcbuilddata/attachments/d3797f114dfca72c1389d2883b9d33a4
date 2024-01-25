@@ -1,0 +1,10 @@
+framework module TestAppNetworkKit {
+  umbrella header "TestAppNetworkKit.h"
+  export *
+
+  module * { export * }
+}
+
+module TestAppNetworkKit.__Swift {
+  exclude header "TestAppNetworkKit-Swift.h"
+}

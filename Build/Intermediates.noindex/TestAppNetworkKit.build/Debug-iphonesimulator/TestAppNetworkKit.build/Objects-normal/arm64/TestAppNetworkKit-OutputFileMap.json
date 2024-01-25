@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/TestAppNetworkKit-master.dia",
+    "emit-module-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/TestAppNetworkKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/TestAppNetworkKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/TestAppNetworkKit-master.swiftdeps"
+  },
+  "/Users/salehmajidov/Desktop/TestApp/AzercellNetworkKit/Network/Service/Service.swift" : {
+    "const-values" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.swiftconstvalues",
+    "dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.d",
+    "diagnostics" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.dia",
+    "index-unit-output-path" : "/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.o",
+    "llvm-bc" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.bc",
+    "object" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.o",
+    "swift-dependencies" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service.swiftdeps",
+    "swiftmodule" : "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/TestAppNetworkKit.build/Debug-iphonesimulator/TestAppNetworkKit.build/Objects-normal/arm64/Service~partial.swiftmodule"
+  }
+}

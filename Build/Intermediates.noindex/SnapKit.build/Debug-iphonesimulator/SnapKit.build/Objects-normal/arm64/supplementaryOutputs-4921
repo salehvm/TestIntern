@@ -1,0 +1,18 @@
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift":
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.o"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftconstvalues"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.swiftdeps"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.dia"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintRelation.d"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift":
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.dia"
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.o"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.d"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftdeps"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView.swiftconstvalues"
+"/Users/salehmajidov/Library/Developer/Xcode/DerivedData/App-fbslibaqwbfeqbbonuughcosmpdu/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift":
+  object: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.o"
+  swift-dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftdeps"
+  dependencies: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.d"
+  diagnostics: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.dia"
+  const-values: "/Users/salehmajidov/Desktop/TestApp/Build/Intermediates.noindex/SnapKit.build/Debug-iphonesimulator/SnapKit.build/Objects-normal/arm64/ConstraintView+Extensions.swiftconstvalues"
